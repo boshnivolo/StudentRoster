@@ -6,9 +6,9 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:house:_ | Baltimore, MD |
+|  :cat:_ |  :snake: |
+| _:birthday:_ | 9-16 |
 
 ## Faves! :v:
 
